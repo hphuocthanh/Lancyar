@@ -1,4 +1,4 @@
-<h4 align="left">I like to build stuff with React & Frontend tools in general. Totally not boring 🤐. Exploring ML/AI and cool Maths atm. Also interested in Web3, Three.js stuff 🚀.</h4> 
+<h4 align="left">I like to build stuff 🤐. Exploring ML/AI and cool Maths atm. Also interested in Web3, Three.js stuff 🚀.</h4> 
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
