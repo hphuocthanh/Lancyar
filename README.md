@@ -6,7 +6,7 @@
 
 <h5>Currently, I (am):</h5>
 <ul>
-  <li>Backend with NestJs, Python Django</li>
+  <li>Backend with NestJs, .NET, Python Django</li>
   <li>Frontend mostly with React and NextJS. My fav UI framework is Mantine!</li>
   <li>Working on cloud (mostly AWS, btw)</li>
 </ul>
